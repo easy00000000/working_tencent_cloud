@@ -1,0 +1,37 @@
+--- Setup jupyter docker image and exec ---
+at Tencent Cloud 118.24.28.231
+- sudo docker pull jupyter/scipy-notebook
+- sudo docker run -it --name scipy -v ~/work:/home/jovyan/work -p 8888:8888 jupyter/scipy-notebook
+- sudo docker exec -i -t -u root scipy bash
+- sudo docker start scipy
+
+---Login at firefox in local windows---
+118.24.28.231:8888
+Qwer1asdf
+when permission denied when creating file in ~/work, run below command at tencent cloud
+- sudo chmod 777 ~/work
+
+---Git---
+1. Create a new repo at github
+git@github.com:easy00000000/working_tencent_cloud.git
+2. Create ssh at cloud
+- ssh-keygen -t rsa -b 4096 -C "easy00000000@github.com"
+- eval $(ssh-agent -s)
+- ssh-add ~/.ssh/id_rsa
+3. Add ssh at github
+- cat ~/.ssh/id_rsa.pub
+Settings ->SSH and GPG keys ->Add SSH key
+4. Init repo at cloud
+- git init
+- git add -A
+- git commit -m 'Inited a project'
+- git remote add origin git@github.com:easy00000000/working_tencent_cloud.git
+- git push -u -f origin master
+5. Change git home directory at local computer
+- echo $HOME
+- setx HOME "/d/CloudStation"
+6. clone and pull at local computer
+at parent direct
+- git clone https://github.com/easy00000000/working_tencent_cloud.git
+at working_tencent_cloud
+- git pull
