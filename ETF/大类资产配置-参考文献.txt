@@ -1,0 +1,211 @@
+参考文献
+
+　　[1] Andrew Ang， “Asset management: A Systematic Approach to Factor Investing”，[M] October 2014
+
+　　[2] Andrew Ang， “Factor Investing: The Reference Portfolio And CanadaPension Plan Investment Board ”，[J] 2012
+
+　　[3] Andrew Ang， “Strategic factor allocation: Case studies in applying factors in portfolio design”，[R] 2017
+
+　　[4] Andrew Ang， Maxim Ulrich， “Nominal Bonds， Real Bonds， and Equity ”，[J]March 2012
+
+　　[5] Andrew Ang， Sara Shores， “Quantifying Intuition: The Evolution Of Factor-Based Investing ”，[R] March 2017
+
+　　[6] Athayde， G。， Flores， R。， “Advances in Portfolio Construction andImplementation ”，[J] 2003
+
+　　[7] Banz， Rolf W，TheRelationship between Return and Market Value of Common Stock，[J] June 1977
+
+　　[8] Basu， Sanjoy，“InvestmentPerformance of Common Stocks in Relation to Their Price-Earnings Ratios: A Testof the Efficient Market Hypothesis”，[J] March 1981
+
+　　[9] Beardsley， Field， Xiao，“Mean-Variance-Skewness-KurtosisPortfolio Optimization with Return and Liquidity”，[J] 2012
+
+　　[10] Bender， J。， R。 Briand， D。 Melas， R.A。 Subramanian，“Foundations of Factor Investing”，[R] 2013
+
+　　[11] Black， Fischer and Litterman， Robert，“AssetAllocation: Combining Investor Views with Market Equilibrium”，[R] September1990
+
+　　[12] Black， Fischer and Litterman， Robert， “Global Portfolio Optimization”，[R] 1991
+
+　　[13] Black， Fischer and Litterman， Robert， “Global Asset Allocation withEquities， Bonds and Currencies”，[R]1991
+
+　　[14] Black， Fischer and Litterman， Robert， “Global Portfolio Optimization”，[R] September1992
+
+　　[15] Blume， M。，“Stock Returns and Dividend Yields: Some More Evidence”，[J] 1980
+
+　　[16] Briec， Kerstens， Jokung， “Mean-Variance-Skewness Portfolio PerformanceGauging: A General Shortage Function and Dual Approach”，[J] January 1,2007
+
+　　[17] Brinson， Fachler， “Measuring non-US。 equity portfolio performance”，[J] Spring 1985
+
+　　[18] Briston， Kedslie， M.J.M。 ， “ProfessionalFormation: The Case of Scottish Accountants – Some Corrections and Further Thoughts”，[R] 1986
+
+　　[19] Briston， “Accounting in Developing Countries: Indonesia and the SolomonIslands as Case Studies for Regional Cooperation”，[R] 1990
+
+　　[20] Buffett， Warren。， Warren Buffett: A Conversation with Dean Cynthia H。
+
+　　Milligan。，[N] 2001
+
+　　[21] Carhart， M。， “On Persistence in Mutual Fund Performance”，[J] 1997
+
+　　[22] Chan， Louis K.C。， “On Portfolio Optimization: Forecasting Covariancesand Choosing the Risk Model”，[J] 1999
+
+　　[23] Charles Ellis， “Investment Management Fees Are (Much) Higher Than YouThink”，[R] June 28， 2012
+
+　　[24] Chen， N。， R。 Roll， S。 Ross。， “Economic forces and the stock market”，[J] 1986
+
+　　[25] Chopra， Vijay K， Ziemba， William T “The effect of errors in means，variances， and covariances on optimal portfolio choice”， [J] 1993
+
+　　[26] Darby Nielson， Akash Vallecha， “Factor Investing in Fixed Income Markets”，[R] 2018
+
+　　[27] David Darst， “The Art of Asset Allocation”，[M] 2008
+
+　　[28] David F。 Swensen， “Pioneering Portfolio Management”，[M] 2000
+
+　　[29] Edward Qian， “Risk parity and diversification” [M] 2005
+
+　　[30] Eduardo S。 Schwartz， Mark Moon， “Rational Pricing of Internet Companies”[J] May 2000
+
+　　[31] Elroy Dimson， Paul Marsh， and Mike Staunton， “Equity Premia Around theWorld” [J] July 2011
+
+　　[32] Fama， E。， K.R。 French。， “A Five-Factor Asset Pricing Model” [J] 2015
+
+　　[33] Fama， E。， K.R。 French。， “Common Risk Factors in the Returns of Stocksand Bonds” [J] 1993
+
+　　[34] Fama， E。， K.R。 French。， “Size， value， and momentum in international stockreturns” [J] 2012
+
+　　[35] Foster， F。 and G。 Warren。， “Equity manager selection and portfolioformation: Interviews with investment staff” [R] 2013
+
+　　[36] Goldberg， Hayes， and Mahmoud， “Minimizing Shortfall”， [J] January 26， 2013
+
+　　[37] Greer， Robert J，“whatis an asset class， anyway<span style=”“font-size:12px；”“，” [j]=“” winter=“” 1997=“”
+
+　　[38] Harvey， Campbell R。 ， Liechty， John C。 ， Liechty， Merrill W。， “Portfolioselection with higher moments”，[J] April 29， 2010
+
+　　[39] Haugen， R。 and N。 Baker。， “ The Efficient Market Inefficiency ofCapitalization-Weighted Stock Portfolios”，[J] 1991
+
+　　[40] 黄燕铭，《证券研究的“2+1”思维》，2016年9月
+
+　　[41] Jacques Lussier， Andrew Ang， “Portfolio Structuring And The Value OfForecasting”，[R] 2016
+
+　　[42] Jan Mossin， “Equilibrium in a Capital Asset Market”，[J] October， 1966
+
+　　[43] Jegadeesh， N。， S。 Titman， “Returns from Buying Winners and SellingLosers: Implications for Stock Market Efficiency”，[J] March 1993
+
+　　[44] Jose Menchero， Andrei Morozov， “Decomposing Cross-Sectional Volatility”，[R] September 2010
+
+　　[45] Leibowitz， M。， A。 Nozari。， “ Spread Duration: A New Tool for Bond PortfolioManagement”， [J] Spring 1990
+
+　　[46] Lintner， “ The Valuation of Risk Assets and the Selection of RiskyInvestments in Stock Portfolios and Capital Budgets”， [J] 1965
+
+　　[47] Markowitz， H.M。， “Portfolio Selection”， [J] 1952
+
+　　[48] Markowitz， H.M。， “Portfolio Selection:Efficient Diversification of Investments”， [J] 1959
+
+　　[49] Nancy Opiela， “Advisorperspectives”， [J/OL] 2011
+
+　　[50] Patricia M。 Dechow， Weili Ge， Catherine M。 Schrand “UnderstandingEarnings Quality: A Review of the Proxies， Their Determinants and TheirConsequences”，[J]August 31， 2010
+
+　　[51] Pranay Gupta， “Multi-AssetInvesting A Practitioner`s Framework”， [M] 2016
+
+　　[52] Reinganum， Marc R。， “ Misspecification of Capital Asset Pricing: EmpiricalAnomalies Based on Earnings Yields and Market Values”， [J] March 1981
+
+　　[53] Robert H。 Litzenberger， Krishna Ramaswamy， “ The effect of personaltaxes and dividends on capital asset prices: Theory and empirical evidence”， [J]1979
+
+　　[54] Robert J。 Shiller， “Irrational Exuberance”， [M] May 1 2016
+
+　　[55] Rockafellar， Uryasev， “Optimization of Conditional Value-at-Risk”， [J] 2000
+
+　　[56] Roewenhorst， K。 G。， “International momentum strategies”， [J] 1998
+
+　　[57] Rosenberg， Barr， “Persuasiveevidence of market inefficiency”，[J] Spring1985
+
+　　[58] Ross， Stephen A。， “The ArbitrageTheory of Capital Asset Pricing”，[J] 1976
+
+　　[59] Sara Shores， “Smart Beta: Defining theOpportunity and Solutions”，[R]February 2015
+
+　　[60] Scott N。 Pappas， Joel M。 Dickson， “Factor-basedinvesting”，[R]April 2015
+
+　　[61] Sloan， R。 G。，“Do Stock Prices Fully Reflect Information inAccruals and Cash Flows about Future Earnings？”，[J] 1996
+
+　　[62] Stewart， Grimmer，“Text as Data:The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts”，[J] 2013
+
+　　[63] Thomas M。 Idzorek，“Globalcommercial real estate: A strategic asset allocation study”，[J] September 2007
+
+　　[64] Towers Watson，“TGlobal Alternatives Survey 2017”，[R] July 17， 2017
+
+　　[65] Treynor， Jack “Market Value， Time， and Risk”，[J] August 8， 1961
+
+　　[66] Treynor， Jack The 10 Most Important Questions to Ask in Selecting aMoney
+
+　　Manager。，[J] 1990
+
+　　[67] Vasant Naik，Mukundan Devarajan，“FactorInvesting And Asset Allocation:ABusiness Cycle Perspective”，[M] 2016
+
+　　[68] Verdelhan， A。，“Share of Systematic Variation in BilateralExchange Rates”，[J] Spring 2015
+
+　　[69] Vineer Bhansali，“BeyondRisk Parity”，[J] Spring 2011
+
+　　[70] William F。 Sharpe “Capital Asset Prices: ATheory Of Market Equilibrium Under Conditions Of Risk”，[J] September 1964
+
+　　[71] Winkelmann， Kurt， “Developing an OptimalActive Risk Budget”，[R] 2003
+
+　　[72] Winkelmann， Kurt， “Macro-Sensitive Portfolio Strategies: MacroeconomicRisk and Asset Cash-Flows”，[R] March 2013
+
+　　[73] Xiong， Idzorek， “The Impact of Skewness and Fat Tails on the Asset AllocationDecision”，[J] April 2011
+
+　　[74] Yoram Lustig，“Multi-Asset Investing:A PracticalGuide to Modern Portfolio Management ”，[M] 2013
+
+　　注释
+
+　　[1]据彭博2018年1月统计。
+
+　　[2] Briston 在1986、1990年两篇著名报告中详细论证了：资产配置能够解释投资组合90%的收益波动。尽管在具体数字比例上还存在分歧，但资产配置对投资组合的决定性作用，已被学术界和投资界所公认。
+
+　　[3]主动投资还是被动投资？一直是资管行业面临的基本问题。2018年9月，平安资管收缩基本面主动投资，转型量化和委外。
+
+　　[4]根据中国基金报2018年10月报道：全球TOP50的顶级资产管理公司中，已有10家拿到中国私募牌照。
+
+　　[5]参见Darst(2008)。
+
+　　[6]比如，因政策变化或外部冲击，经济增长趋势超预期或者逊于预期。
+
+　　[7] Swensen(2000)提出了耶鲁大学一种用于平衡当期支出与资产规模的方案。
+
+　　[8]也称之为资本市场假设(CMA)
+
+　　[9]根据Chopra (1993)，MVO优化结果对预期收益误差的敏感度比方差大11倍，方差误差的敏感度是协方差的2倍。
+
+　　[10] 2018年全球大多数资产表现不佳，体现了共同风险因子的特征。因此有人戏言：“鸡蛋没有放在一个篮子里，但篮子却在同一个车里”。
+
+　　[11]因子分析兴起后，这种可视感更加强烈。
+
+　　[12]积极风险衡量投资收益与基准收益的差异，通常用跟踪误差衡量，反映了资产管理人积极投资决策对基准的偏离。残留风险是某个公司的特定风险，例如自然灾害、诉讼赔偿等，是一种非系统性风险。
+
+　　[13]某种资产的边际风险贡献MCTRi，即投资组合风险对该资产权重的偏导数。简单形式如下：MCTRi = βi*σp，其中，σp是投资组合的标准差，βi即第i类资产相对于组合的β值。某种资产的绝对风险贡献ACTRi = Wi*MCTRi，其中，Wi是该资产的权重。
+
+　　[14]如果投资组合包括10种资产，MVO需要输入10个预期收益、10个标准差以及45个相关系数，并且配置结果对这些参数的准确性高度敏感。风险平价模型只需要考虑10个标准差(或者方差)。
+
+　　[15]一些高级的风险平价模型会考虑估计相关系数。
+
+　　[16] Foster & Warren(2013)密集走访了澳大利亚10家养老金机构的高管。从实证研究看，管理人的选择，往往更依赖主观定性判断，而并非简单的历史业绩和量化分析。
+
+　　[17]参见Ellis (2012)。
+
+　　[18]参见Swensen(2000)。
+
+　　[19] 100×1.05/1.1=95.45。
+
+　　[20] 2018年12月，美股创下10年以来最大跌幅，但在最后一周实现惊人反弹。据富国银行推测，美国养老金在季度末，针对股债组合的再平衡操作，或是其中重要的原因。
+
+　　[21]例如Morgan Stanley投资公司创始人、前主席BartonBiggs表示：“均值回归，或者说收益向长期均值趋近，是投资领域最强大的力量之一”，参见Darst(2008)。GMO资管公司创始人、投资总监Jeremy Grantham表示：“均值回归是金融市场之中最强大的力量”，参见Swensen(2000)。
+
+　　[22]宏观经济商业周期、存货周期变化，GDP扩张与衰退、通胀攀升与回落，并非市场机制永久、趋势性改变。
+
+　　[23] ANG举了市场机制发生永久改变的两个例子：一是1933年前后，或由于脱离金本位制度的影响，收益率曲线从向下转变为向上倾斜。二是1987年前后，期权隐含的波动率从对称变成负偏度(隐含波动率微笑变成隐含波动率假笑)。比较流行的一种解释是：1987年股灾后，投资者普遍担心股灾，大量买入卖空期权以避险。
+
+　　[24]参见Treynor (1961)、Sharpe (1964)、Lintner(1965)以及Mossin (1966)。
+
+　　[25]限于篇幅，我们无法一一列举所涉及的文献，仅对其中时间最早、最具代表性的文献加以说明。
+
+　　[26]举两个简单例子：投资1美元PE，相当于买入1.3美元股票、做空0.3美元债券。投资1美元房地产，相当于买入0.4美元股票、买入0.6美元债券。参见ANG(2012)，哥伦比亚大学案例。
+
+　　[27]参见Winkelmann(2013)。
+
+　　[28] Ang和Ulrich(2012)指出，经济增长能够解释股票风险溢价的60%；通胀预期能够解释实际利率变动的40%、名义利率变动的60%。
