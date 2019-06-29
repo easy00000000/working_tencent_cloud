@@ -1,0 +1,43 @@
+Evaluated_Period:,2014-01-02 to 2019-06-07
+Assets:,SHY,2833,NAV
+Total_Return,0.23%,17.26%,56.85%
+Annualized_Return,0.05%,4.51%,9.50%
+Annualized_STD,0.97%,17.43%,13.44%
+Sharpe_Ratio,0.05,0.26,0.71
+Max_Loss,-2.92%,-35.49%,-19.57%
+Evaluated_Period:,2014-01-02 to 2014-12-31
+Assets:,SHY,2833,NAV
+Annualized_Return,0.09%,2.86%,4.99%
+Annualized_STD,0.75%,14.68%,10.69%
+Sharpe_Ratio,0.11,0.20,0.47
+Max_Loss,-0.66%,-11.21%,-9.66%
+Evaluated_Period:,2015-01-01 to 2015-12-31
+Assets:,SHY,2833,NAV
+Annualized_Return,-0.10%,-4.96%,13.60%
+Annualized_STD,1.01%,21.30%,11.94%
+Sharpe_Ratio,-0.10,-0.23,1.14
+Max_Loss,-0.86%,-27.36%,-7.57%
+Evaluated_Period:,2016-01-01 to 2016-12-30
+Assets:,SHY,2833,NAV
+Annualized_Return,0.11%,2.06%,4.51%
+Annualized_STD,1.00%,19.31%,17.33%
+Sharpe_Ratio,0.11,0.11,0.26
+Max_Loss,-1.28%,-15.98%,-14.02%
+Evaluated_Period:,2017-01-02 to 2017-12-29
+Assets:,SHY,2833,NAV
+Annualized_Return,-0.70%,36.91%,34.41%
+Annualized_STD,0.90%,11.03%,10.41%
+Sharpe_Ratio,-0.78,3.35,3.30
+Max_Loss,-1.10%,-6.29%,-5.96%
+Evaluated_Period:,2018-01-01 to 2018-12-31
+Assets:,SHY,2833,NAV
+Annualized_Return,-0.27%,-11.63%,-6.92%
+Annualized_STD,0.98%,19.80%,15.16%
+Sharpe_Ratio,-0.27,-0.59,-0.46
+Max_Loss,-1.19%,-24.81%,-19.57%
+Evaluated_Period:,2019-01-01 to 2019-06-07
+Assets:,SHY,2833,NAV
+Annualized_Return,2.63%,13.47%,12.92%
+Annualized_STD,1.37%,15.26%,14.48%
+Sharpe_Ratio,1.93,0.88,0.89
+Max_Loss,-0.40%,-10.26%,-9.74%
